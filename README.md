@@ -1,4 +1,4 @@
-# Pseudolab_DataCamp
+# Data_analysis & Data_science
 
 ### studying and learning  the following things 
 
