@@ -4,5 +4,5 @@
 
 > import, clean, manipulate, and visualize data   
 > Python libraries, including pandas, NumPy, Matplotlib   
-> statistical and machine learning  
+> statistical and machine learning , Deep learning  
  
